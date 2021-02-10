@@ -1,0 +1,1 @@
+let app=require("express")();app.get("/",(e,l)=>{l.send("Hello Travis! \n")}),app.listen(3e3,()=>{console.log("localhost:3000")});

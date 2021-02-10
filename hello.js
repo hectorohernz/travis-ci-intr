@@ -1,4 +1,4 @@
-var app = require("express")();
+let app = require("express")();
 
 app.get("/",(req,res) => {
     res.send("Hello Travis! \n");
