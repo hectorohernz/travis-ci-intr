@@ -12,3 +12,4 @@ or event and the resulting work is automatically tested and built.
 The idea is that development errors are identified very early in the process.
 
 
+A Real life example is running automatically unit/intergration test.
